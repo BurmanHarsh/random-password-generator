@@ -1,1 +1,1 @@
-This is a website to create a random password.
+This is a website to create random passwords.
